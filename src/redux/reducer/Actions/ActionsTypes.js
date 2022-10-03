@@ -1,0 +1,15 @@
+export const SET_TOKEN = 'SET_TOKEN'
+export const SET_USER = 'SET_USER'
+export const SIGNIN_START = 'SIGNIN_START'
+export const SIGNIN_SUCCESS = 'SIGNIN_SUCCESS'
+export const SIGNIN_FALURE = 'SIGNIN_FALURE'
+
+
+export const CONFIRM_START = 'CONFIRM_START'
+export const CONFIRM_SUCCESS = 'CONFIRM_SUCCESS'
+export const CONFIRM_FALURE = 'CONFIRM_FALURE'
+
+
+export const CLEAR_REDUX = 'CLEAR_REDUX'
+
+export const GET_PRODUCTS = 'GET_PRODUCTS'
